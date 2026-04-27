@@ -1,2 +1,0 @@
-# bookstore_api
-bookstore
